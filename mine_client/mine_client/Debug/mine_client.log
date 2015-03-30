@@ -1,0 +1,81 @@
+﻿生成启动时间为 2012/5/19 1:47:55。
+     1>项目“C:\程序练习\mine_client\mine_client\mine_client.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\mine_client.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mine_client.cpp
+         mine_client.cpp
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(343): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(362): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(410): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(414): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(467): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(474): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(451) : 参见“_itoa”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(494): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(501): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(508): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(515): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(522): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(529): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(861): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(867): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(918): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(937): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1017): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1078): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1086): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1090): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1097): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1101): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1105): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1111): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1118): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1122): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1126): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1130): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1134): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1138): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\程序练习\mine_client\mine_client\mine_client.cpp(1004): warning C4715: “value”: 不是所有的控件路径都返回值
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\程序练习\mine_client\Debug\mine_client.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mine_client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\程序练习\mine_client\Debug\mine_client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\程序练习\mine_client\Debug\mine_client.lib" /MACHINE:X86 Debug\mine_client.exe.embed.manifest.res
+         Debug\mine_client.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mine_client.exe.embed.manifest" /manifest Debug\mine_client.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         mine_client.vcxproj -> C:\程序练习\mine_client\Debug\mine_client.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\mine_client.unsuccessfulbuild”。
+         正在对“Debug\mine_client.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\程序练习\mine_client\mine_client\mine_client.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.57
